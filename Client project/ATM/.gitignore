@@ -1,0 +1,11 @@
+ATM.build
+ATM.xcodeproj
+project.xcworkspace
+project.pbxproj
+ATM.pro.user
+.qmake.stash
+*.mak
+Debug/*.o
+Debug/Atm.app
+xcshareddata
+Makefile
